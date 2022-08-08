@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/zhenliu15471/code/zliu15471/leetcode'
+pip install -r requirements.txt
+make: Leaving directory `/Users/zhenliu15471/code/zliu15471/leetcode'
+ 
