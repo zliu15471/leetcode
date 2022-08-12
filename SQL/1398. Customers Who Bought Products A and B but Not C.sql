@@ -70,6 +70,7 @@ Explanation: Only the customer_id with id 3 bought the product A and B but not t
 
 
 # Write your MySQL query statement below
+
 SELECT Customers.customer_id, Customers.customer_name
 FROM Customers
 WHERE Customers.customer_id IN (
