@@ -7,7 +7,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 
 # This program built for i386-apple-darwin11.3.0
 
-# Make data base, printed on Wed Aug 17 16:41:33 2022
+# Make data base, printed on Fri Aug 19 16:57:05 2022
 
 # Variables
 
@@ -136,7 +136,7 @@ TERM_PROGRAM_VERSION = 444
 # environment
 NVM_DIR = /Users/zhenliu15471/.nvm
 # environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.21868723.21868729.11781399-B78A-4DA1-9766-9DC199E942CC
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.21868723.21868729.5222C2F2-1F17-47B0-8186-16D057EAA2F4
 # automatic
 +D = $(patsubst %/,%,$(dir $+))
 # automatic
@@ -362,6 +362,6 @@ install:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Wed Aug 17 16:41:33 2022
+# Finished Make data base on Fri Aug 19 16:57:05 2022
 
  
