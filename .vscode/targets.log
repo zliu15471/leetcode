@@ -8,7 +8,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # This program built for i386-apple-darwin11.3.0
  
 
-# Make data base, printed on Wed Aug 24 19:36:25 2022
+# Make data base, printed on Thu Aug 25 15:11:42 2022
 
 # Variables
 
@@ -42,7 +42,6 @@ MAKEFILE_LIST :=  Makefile
 __CFBundleIdentifier = com.microsoft.VSCode
 # makefile (from `Makefile', line 47)
 PYPI_USERNAME = <AUTHOR>
- 
 # environment
 VSCODE_CWD = /Users/zhenliu15471/code/zliu15471/leetcode
 # environment
@@ -53,6 +52,7 @@ LSCOLORS = Gxfxcxdxbxegedabagacad
 VIRTUAL_ENV = /Users/zhenliu15471/.pyenv/versions/3.8.12/envs/lewagon
 # environment
 LaunchInstanceID = AD47A451-8AA2-4BA7-A167-228712252DD4
+ 
 # environment
 ELECTRON_RUN_AS_NODE = 1
 # environment
@@ -135,10 +135,11 @@ MFLAGS = -Rrqp
 *D = $(patsubst %/,%,$(dir $*))
 # environment
 TERM_PROGRAM_VERSION = 444
+ 
 # environment
 NVM_DIR = /Users/zhenliu15471/.nvm
 # environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.21868723.21868729.9F6ADB92-41BB-41D9-9301-0BB4CB0D4263
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.21868723.21868729.BBD03755-6FC1-444E-ACA8-E168BA9D6C30
 # automatic
 +D = $(patsubst %/,%,$(dir $+))
 # automatic
@@ -186,7 +187,6 @@ VSCODE_PID = 89589
 # Pattern-specific Variable Values
 
 # No pattern-specific variable values.
- 
 
 # Directories
 
@@ -242,7 +242,6 @@ pypi:
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
- 
 #  Last modified 2022-08-01 18:21:49
 #  File has been updated.
 #  Successfully updated.
@@ -319,7 +318,6 @@ clean:
 # automatic
 # ? := 
 # variable set hash-table stats:
- 
 # Load=8/32=25%, Rehash=0, Collisions=1/10=10%
 #  commands to execute (from `Makefile', line 21):
 	@rm -f */version.txt
@@ -367,6 +365,6 @@ install:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Wed Aug 24 19:36:25 2022
+# Finished Make data base on Thu Aug 25 15:11:42 2022
 
  
